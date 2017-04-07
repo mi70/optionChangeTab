@@ -1,0 +1,13 @@
+.mainForm{
+	padding: 20px;
+	width: 600px;
+	border: 1px solid #eee;
+	margin: 20px auto;
+}
+.tabWrap>div{
+	display: none;
+	margin-left: 10px;
+}
+.tabWrap .tab0{
+	display: block;
+}
